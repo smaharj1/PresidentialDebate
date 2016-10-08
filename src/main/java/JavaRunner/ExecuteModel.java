@@ -1,5 +1,7 @@
-package model;
+package JavaRunner;
 
+
+import model.MarkovChain;
 
 import java.io.IOException;
 
